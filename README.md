@@ -1,3 +1,3 @@
-# TDLC_project 
+# TDLC_Project 
 
 Modern Calculator
